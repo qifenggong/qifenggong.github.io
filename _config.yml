@@ -81,3 +81,4 @@ deploy:
   type: git
   repo: git@github.com:qifenggong/qifenggong.github.io.git
   branch: master
+  message: update the master
